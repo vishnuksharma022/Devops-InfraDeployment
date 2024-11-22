@@ -1,1 +1,1 @@
-data
+variable "Devops-RG" {}
