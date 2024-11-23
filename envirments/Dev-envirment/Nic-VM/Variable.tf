@@ -1,1 +1,1 @@
-data
+variable "azure-nic" {}

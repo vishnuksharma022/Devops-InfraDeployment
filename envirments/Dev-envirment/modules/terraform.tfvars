@@ -32,3 +32,16 @@ azure-subnet = {
     resource_group_name  = "devops-Rg"
   }
 }
+
+
+azure-nic={
+  nic-1={
+subnet= "front-end"
+virtual_network_name= "Devops-Vnet"
+resource_group_name= "devops-Rg"
+network_interface= "front-end-nic"
+location= "eastus"
+virtual_machine="front-end-vm"
+}
+
+}
